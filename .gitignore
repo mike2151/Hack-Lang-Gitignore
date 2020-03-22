@@ -13,3 +13,4 @@ _site
 # Hack Specific
 composer.phar
 /vendor/
+*.hhast.parser-cache
